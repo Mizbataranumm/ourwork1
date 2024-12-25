@@ -8,3 +8,4 @@ exp6
 merging two branches with message
 exp5
 git push and git pull
+using git pull 
